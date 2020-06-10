@@ -1,5 +1,5 @@
 ### Details of environment
-- MySQl Server version: mysql-8.0.11
+- MySQL Server version: mysql-8.0.11
 - Springboot: 2.2.6.RELEASE
 - debezium.version: 0.10.0.Final
 - mysql-connector: auto picked by spring-boot
