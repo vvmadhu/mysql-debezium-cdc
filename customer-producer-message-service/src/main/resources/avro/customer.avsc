@@ -1,0 +1,27 @@
+{
+  "name": "Customer",
+  "type": "record",
+  "namespace": "com.hcl.redhat.sor.message.entity",
+  "fields": [
+    {
+      "name": "customerId",
+      "type": "string"
+    },
+    {
+      "name": "customerName",
+      "type": "string"
+    },
+    {
+      "name": "customerNumber",
+      "type": "string"
+    },
+    {
+      "name": "customerEmail",
+      "type": "string"
+    },
+    {
+      "name": "customerAddress",
+      "type": "string"
+    }
+  ]
+}
